@@ -1,7 +1,7 @@
 ## Halaman Tampilan Awal
 ![Lampiran Tampilan Awal](tampilan_awal.png)
 ### 1. Proses Autentikasi Login
-</br>Ketika pengguna menekan tombol "Login dengan Google", aplikasi memulai proses login menggunakan Firebase Authentication.
+</br>Ketika pengguna menekan tombol "Sign In With Google", aplikasi memulai proses login menggunakan Firebase Authentication.
 </br>Firebase menyediakan metode signInWithPopup atau signInWithRedirect untuk menangani autentikasi ini. **GoogleAuthProvider** digunakan untuk menghubungkan Firebase dengan layanan autentikasi Google.
 
 ## Sign In Google
