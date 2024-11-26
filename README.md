@@ -40,3 +40,6 @@
 ### 6. Logout
 </br>Ketika pengguna menekan tombol "Logout", aplikasi memanggil metode signOut dari Firebase.
 </br>Firebase akan menghapus token autentikasi pengguna, sehingga mereka tidak lagi dianggap sebagai pengguna yang login.
+
+# CRUD
+![Lampiran Tampilan Home Terbaru](Home_baru.png)
