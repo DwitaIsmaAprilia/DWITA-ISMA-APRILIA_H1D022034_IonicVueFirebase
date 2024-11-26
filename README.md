@@ -43,3 +43,19 @@
 
 # CRUD
 ![Lampiran Tampilan Home Terbaru](Home_baru.png)
+
+![Lampiran Tampilan Tambah](tambah.png)
+
+![Lampiran Tampilan Hasil Tambah](hasil_tambah.png)
+
+![Lampiran Tampilan Slide Edit](slide_edit.png)
+
+![Lampiran Tampilan Edit](halaman_edit.png)
+
+![Lampiran Tampilan Hasil Edit](hasil_edit.png)
+
+![Lampiran Tampilan Slide Hapus](slide_hapus.png)
+
+![Lampiran Tampilan Slide Selesai](slide_selesai.png)
+
+![Lampiran Tampilan Selesai](selesai.png)
